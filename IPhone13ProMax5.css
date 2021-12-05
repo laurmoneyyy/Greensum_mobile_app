@@ -1,0 +1,109 @@
+.iphone-13-pro-max-5 {
+  align-items: center;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  height: 926px;
+  padding: 188px 0;
+  position: relative;
+  width: 428px;
+}
+
+.sign-up {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-left: 48px;
+  min-height: 58px;
+  width: 172px;
+}
+
+.text-4 {
+  height: 40px;
+  letter-spacing: 0;
+  margin-right: 66.0px;
+  margin-top: 20px;
+  width: 266px;
+}
+
+.overlap-group2-1 {
+  align-items: flex-start;
+  background-color: var(--mist-gray-2);
+  border-radius: 9px;
+  display: flex;
+  height: 57px;
+  margin-top: 72px;
+  min-width: 332px;
+  padding: 18px 15px;
+}
+
+.first-name {
+  height: 20px;
+  letter-spacing: 0;
+}
+
+.text-5 {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 16px;
+  letter-spacing: 0;
+  margin-right: 48px;
+  margin-top: 8px;
+  min-width: 154px;
+}
+
+.span1 {
+  text-decoration: underline;
+}
+
+.group-7 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 46px;
+  min-width: 222px;
+}
+
+.overlap-group1-2 {
+  border-radius: 89px;
+  height: 57px;
+  position: relative;
+  width: 220px;
+}
+
+.overlap-group-2 {
+  border-radius: 89px;
+  height: 57px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 220px;
+}
+
+.login {
+  height: 20px;
+  left: 86px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 19px;
+}
+
+.rectangle-1-1 {
+  background-color: var(--como-2);
+  border-radius: 89px;
+  height: 57px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 220px;
+}
+
+.sign-up-1 {
+  height: 20px;
+  left: 79px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 19px;
+}
+
