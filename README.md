@@ -1,3 +1,3 @@
 # Greensum_mobile_app
 
- Video URl: https://youtu.be/tvMy27qAvyE 
+ Video URL: https://youtu.be/tvMy27qAvyE 
